@@ -2,7 +2,7 @@
 
 ## UML
 
-'''
+'''mermaid
 classDiagram
 
 class Student{
